@@ -4,3 +4,8 @@
 Thanks to 'CatQueenCodes' and 'Anarchomushroom' for posting their examples online.
 Began process of adding a reset.css and stylesheet reference to beginning of html code instead of just dumping all css code into the head.
 
+To do:
+main logo (resize and center in page)
+top nav (resize and adjust placement of links; add 'apps' icon and 'Sign in' input button
+search bar (add manifying glass logo and resize)
+bottom nav (seperate left and right links)
